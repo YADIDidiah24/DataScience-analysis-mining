@@ -1,4 +1,4 @@
-Tasks:
+Tasks: 
 1.	Dataset Selection
 2.	Data Preprocessing and Analysis
 3.	KNN
