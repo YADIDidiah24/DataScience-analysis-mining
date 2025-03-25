@@ -4,3 +4,5 @@ Tasks:
 3.	KNN
 4.	DecisionTree
 5.	Evaluation and classification report
+
+metrics used.
